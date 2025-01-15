@@ -4,9 +4,9 @@ I'm a passionate **full-stack developer** with expertise in various technologies
 
 ### 🛠 Tech Stack
 
-- **Frontend**: React
+- **Frontend**: React, NextJs
 - **Mobile**: Flutter
-- **Backend**: Node.js
+- **Backend**: Node.js, Springboot
 
 ### 🌱 Currently Studying
 
